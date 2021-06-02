@@ -20,6 +20,7 @@ namespace GitHub_Test2.Controllers
 
         public IActionResult Index()
         {
+            //This is a comment for Test3.
             return View();
         }
 
